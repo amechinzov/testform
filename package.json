@@ -1,0 +1,28 @@
+{
+  "name": "test_desk",
+  "version": "1.0.0",
+  "description": "description test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amechinzov/testform.git"
+  },
+  "keywords": [
+    "test",
+    "form"
+  ],
+  "author": "amechinzov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amechinzov/testform/issues"
+  },
+  "homepage": "https://github.com/amechinzov/testform#readme",
+  "dependencies": {
+    "@fancyapps/fancybox": "^3.5.7",
+    "imask": "^6.4.2",
+    "jquery": "^3.6.0"
+  }
+}
